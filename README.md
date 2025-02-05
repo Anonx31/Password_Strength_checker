@@ -30,7 +30,6 @@ python password_strength_checker.py
 ## Images
 ![Demo 1](Demo/Demo1.PNG)
 ![Demo 2](Demo/Demo2.PNG)
-![Demo 3](Demo/Demo3.PNG)
 
 ## Contribution
 Feel free to contribute by submitting issues or pull requests.
